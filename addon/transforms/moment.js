@@ -1,5 +1,5 @@
 import DS from 'ember-data';
-import moment from 'moment';
+// import moment from 'moment';
 
 export default DS.Transform.extend({
   deserialize: function(serialized) {
