@@ -1,4 +1,4 @@
-import moment from 'moment';
+// import moment from 'moment';
 import MomentTransform from './moment';
 
 export default MomentTransform.extend({
